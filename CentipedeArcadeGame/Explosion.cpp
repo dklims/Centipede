@@ -1,3 +1,6 @@
+//Explosion.cpp
+//David Klimavich, November 2016
+
 #include "Explosion.h"
 
 Explosion::Explosion()

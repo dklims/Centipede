@@ -1,3 +1,6 @@
+//Scorpion.h
+//David Klimavich, November 2016
+
 #ifndef _Scorpion
 #define _Scorpion
 

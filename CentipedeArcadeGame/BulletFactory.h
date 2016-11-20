@@ -1,11 +1,10 @@
-#pragma once
+//BulletFactory.h
+//David Klimavich, November 2016
 
 #ifndef _BulletFactory
 #define _BulletFactory
-//#include "Game Components\TEAL\CommonElements.h"
 
 #include <stack>
-
 #include "Bullet.h"
 #include "Blaster.h"
 

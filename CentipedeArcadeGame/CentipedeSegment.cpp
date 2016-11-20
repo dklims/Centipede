@@ -1,3 +1,6 @@
+//CentipedeSegment.cpp
+//David Klimavich, November 2016
+
 #include "CentipedeSegment.h"
 #include "CentipedeBase.h"
 #include "CentipedeSegmentFactory.h"

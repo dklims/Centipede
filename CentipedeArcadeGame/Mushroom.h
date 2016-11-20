@@ -1,6 +1,5 @@
-//Mushroom 
-//David Klimavich
-
+//Mushroom.h
+//David Klimavich, November 2016
 #ifndef _Mushroom
 #define _Mushroom
 

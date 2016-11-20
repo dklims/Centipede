@@ -1,5 +1,8 @@
+//Scorpion.cpp
+//David Klimavich, November 2016
+
 #include "Scorpion.h"
-//#include "MushroomGrid.h"
+
 
 Scorpion::Scorpion()
 {

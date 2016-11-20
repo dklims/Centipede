@@ -1,3 +1,6 @@
+//CritterBase.h
+//David Klimavich, November 2016
+
 #ifndef _CritterBase
 #define _CritterBase
 
@@ -8,11 +11,8 @@
 
 class CritterBase : public GameObject
 {
-public:
-	
-	void ResetFrameCount();
-
 protected:
+	void ResetFrameCount();
 
 	AnimatedSprite MainSprite;
 	CollisionTools::TextureBitmap *bitmap;

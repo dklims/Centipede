@@ -1,10 +1,12 @@
-//#pragma once
+//WaveManager.h
+//David Klimavich, November 2016
+
 #ifndef _WaveManager
 #define _WaveManager
 
 #include "MushroomGrid.h"
 //#include "CritterManager.h"
-#include "MovementArrrays.h"
+#include "MovementArrays.h"
 
 //#include "CentipedeHeadFactory.h"
 #include <fstream>

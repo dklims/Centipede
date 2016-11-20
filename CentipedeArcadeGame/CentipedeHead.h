@@ -1,20 +1,18 @@
-//#pragma once
+//CentipedeHead.h
+//David Klimavich, November 2016
 
 #ifndef _CentipedeHead
 #define _CentipedeHead
 
 #include "CentipedeBase.h"
-//#include "CentipedeHeadFactory.h"
-//#include "CentipedeSegmentFactory.h"
 #include "MushroomGrid.h"
 #include "ExplosionFactory.h"
 
 
 //Forward 
-//class MushroomGrid;
 class CentipedeSegment;
 class Bullet;
-//class WaveManager;
+
 
 
 class CentipedeHead : public CentipedeBase
@@ -33,15 +31,6 @@ public:
 
 	void turnDown(); //for what?
 
-	void createSegment();
-	void CreateHead();
-	void ResetVariables();
-	void DetermineNextDirection();
-	void SetSprite();
-	void SetBoundaries();
-	void SetAnimationInfo();
-	void FirstHeadVariables();
-	void NewHeadVariables();
 
 	void Initialize(bool firstHeadPassed, sf::Vector2f * passedInDirection, int passedInArrayIt, sf::Vector2f startingPos);
 
@@ -95,6 +84,16 @@ private:
 	bool bodyCreated;
 	bool firstHead;
 
+	//initilizing methods
+	void createSegment();
+	void CreateHead();
+	void ResetVariables();
+	void DetermineNextDirection();
+	void SetSprite();
+	void SetBoundaries();
+	void SetAnimationInfo();
+	void FirstHeadVariables();
+	void NewHeadVariables();
 	
 
 	

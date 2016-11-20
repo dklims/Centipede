@@ -1,3 +1,6 @@
+//ScoreManager.h
+//David Klimavich, November 2016
+
 #ifndef _ScoreManager
 #define _ScoreManager
 

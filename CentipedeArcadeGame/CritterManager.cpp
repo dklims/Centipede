@@ -1,11 +1,7 @@
-#include "CritterManager.h"
-//#include "WaveManager.h"
+//CritterManager.cpp
+//David Klimavich, November 2016
 
-//factories
-//#include "CentipedeHeadFactory.h"
-//#include "SpiderFactory.h"
-//#include "ScorpionFactory.h"
-//class CentipedeHead;
+#include "CritterManager.h"
 
 CritterManager *CritterManager::instance = nullptr;
 CritterManager::CritterManager()

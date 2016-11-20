@@ -1,11 +1,13 @@
-#pragma once
+//CentipedeBase.h
+//David Klimavich, November 2016
+
 #ifndef _CentipedeManagement
 #define _CentipedeManagement
 
 #include "Game Components\TEAL\CommonElements.h"
 #include "MushroomGrid.h"
 #include "ScoreManager.h"
-#include "MovementArrrays.h"
+#include "MovementArrays.h"
 
 class CentipedeBase : public MovementArrays
 {

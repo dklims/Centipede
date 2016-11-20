@@ -1,3 +1,6 @@
+//Explosion.h
+//David Klimavich, November 2016
+
 #ifndef _Explosion
 #define _Explosion
 

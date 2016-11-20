@@ -1,3 +1,6 @@
+//Spider.cpp
+//David Klimavich, November 2016
+
 #include "Spider.h"
 
 Spider::Spider()

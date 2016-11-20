@@ -1,5 +1,6 @@
-//MushroomGrid
-//David Klimavich
+//MushroomGrid.cpp
+//David Klimavich, November 2016
+
 #include "MushroomGrid.h"
 #include "Mushroom.h"
 #include "math.h"

@@ -1,3 +1,6 @@
+//CentipedeSegmentFactory.h
+//David Klimavich, November 2016
+
 #ifndef _CentipedeSegmentFactory
 #define _CentipedeSegmentFactory
 

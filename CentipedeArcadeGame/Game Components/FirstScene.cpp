@@ -1,4 +1,6 @@
-// FirstScene
+//FirstScene.cpp
+//David Klimavich, November 2016
+
 
 #include "FirstScene.h"
 #include "../Explosion.h"

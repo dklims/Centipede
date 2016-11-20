@@ -1,3 +1,6 @@
+//CentipedeHeadFactory.h
+//David Klimavich, November 2016
+
 #ifndef _CentipedeHeadFactory
 #define _CentipedeHeadFactory
 

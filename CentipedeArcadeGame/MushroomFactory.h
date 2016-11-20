@@ -1,3 +1,6 @@
+//MushroomFactory.h
+//David Klimavich, November 2016
+
 #ifndef _MushroomFactory
 #define _MushroomFactory
 

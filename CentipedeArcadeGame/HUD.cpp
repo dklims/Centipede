@@ -1,3 +1,6 @@
+//HUD.cpp
+//David Klimavich, November 2016
+
 #include "HUD.h"
 #include "Glyph.h"
 

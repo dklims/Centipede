@@ -1,3 +1,7 @@
+//CentipedeBase.cpp
+//David Klimavich, November 2016
+
+
 #include "CentipedeBase.h"
 #include "CentipedeHead.h"
 #include "MushroomGrid.h"

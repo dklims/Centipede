@@ -1,3 +1,6 @@
+//FleaFactory.h
+//David Klimavich, November 2016
+
 #ifndef _FleaFactory
 #define _FleaFactory
 

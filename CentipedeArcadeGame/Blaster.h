@@ -1,5 +1,5 @@
-// Ship
-// Andre Berthiaume, Aug 2012
+//Blaster.h
+//David Klimavich, November 2016
 
 #ifndef _Blaster
 #define _Blaster

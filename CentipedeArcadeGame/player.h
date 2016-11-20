@@ -1,3 +1,6 @@
+//player.h
+//David Klimavich, November 2016
+
 #ifndef _Player
 #define _Player
 

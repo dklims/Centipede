@@ -1,3 +1,6 @@
+//ScoreManager.cpp
+//David Klimavich, November 2016
+
 #include "ScoreManager.h"
 #include <fstream>
 #include <iostream>

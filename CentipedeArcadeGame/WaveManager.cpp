@@ -1,3 +1,6 @@
+//WaveManager.cpp
+//David Klimavich, November 2016
+
 #include "WaveManager.h"
 #include "CentipedeHeadFactory.h"
 #include "CentipedeSegmentFactory.h"

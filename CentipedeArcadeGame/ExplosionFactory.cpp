@@ -1,3 +1,6 @@
+//ExplosionFactory.cpp
+//David Klimavich, November 2016
+
 #include "Game Components\TEAL\CommonElements.h"
 #include "ExplosionFactory.h"
 #include "CentipedeSegmentFactory.h"

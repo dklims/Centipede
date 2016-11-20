@@ -1,3 +1,6 @@
+//SpiderFactory.h
+//David Klimavich, November 2016
+
 #ifndef _SpiderFactory
 #define _SpiderFactory
 

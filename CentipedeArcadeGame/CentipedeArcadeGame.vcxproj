@@ -189,7 +189,7 @@
     <ClInclude Include="Blaster.h" />
     <ClInclude Include="CritterManager.h" />
     <ClInclude Include="Glyph.h" />
-    <ClInclude Include="MovementArrrays.h" />
+    <ClInclude Include="MovementArrays.h" />
     <ClInclude Include="Mushroom.h" />
     <ClInclude Include="MushroomFactory.h" />
     <ClInclude Include="MushroomGrid.h" />

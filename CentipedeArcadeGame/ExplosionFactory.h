@@ -1,3 +1,6 @@
+//ExplosionFactory.h
+//David Klimavich, November 2016
+
 #ifndef _ExplosionFactory
 #define _ExplosionFactory
 

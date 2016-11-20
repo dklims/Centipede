@@ -1,3 +1,6 @@
+//player.cpp
+//David Klimavich, November 2016
+
 #include "player.h"
 #include "HUD.h"
 

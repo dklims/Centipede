@@ -1,3 +1,6 @@
+//ScorpionFactory.h
+//David Klimavich, November 2016
+
 #ifndef _ScorpionFactory
 #define _ScorpionFactory
 

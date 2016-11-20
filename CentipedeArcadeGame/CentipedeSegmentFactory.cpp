@@ -1,3 +1,6 @@
+//CentipedSegmentFactory.cpp
+//David Klimavich, November 2016
+
 #include "Game Components\TEAL\CommonElements.h"
 #include "CentipedeSegmentFactory.h"
 

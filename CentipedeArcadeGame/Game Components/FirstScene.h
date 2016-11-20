@@ -1,5 +1,5 @@
-// FirstScene
-// Andre Berthiaume, March 2013
+//FirstScene.h
+//David Klimavich, November 2016
 
 #ifndef _FirstScene
 #define _FirstScene
@@ -35,7 +35,7 @@
 #include "../CentipedeHeadFactory.h"
 #include "../SpiderFactory.h"
 
-class FirstScene : public Scene
+class FirstScene : public Scene //---> Scene class written by Andre Berthiaume
 {
 public:
 	virtual void Initialize();

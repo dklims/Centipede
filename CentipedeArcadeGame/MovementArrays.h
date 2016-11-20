@@ -1,3 +1,6 @@
+//MovementArrays.h
+//David Klimavich, November 2016
+
 #ifndef _MovementArrays
 #define _MovementArrays
 

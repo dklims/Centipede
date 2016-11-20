@@ -1,3 +1,6 @@
+//FleaFactory.cpp
+//David Klimavich, November 2016
+
 #include "FleaFactory.h"
 
 std::stack<Flea*> FleaFactory::recycledItems;

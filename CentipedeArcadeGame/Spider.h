@@ -1,3 +1,6 @@
+//Spider.h
+//David Klimavich, November 2016
+
 #ifndef _Spider
 #define _Spider
 

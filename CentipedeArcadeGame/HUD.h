@@ -1,3 +1,6 @@
+//HUD.h
+//David Klimavich, November 2016
+
 #ifndef _HUD
 #define _HUD
 

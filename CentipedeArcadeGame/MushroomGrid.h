@@ -1,5 +1,5 @@
-//MushroomGrid
-//David Klimavich
+//MushroomGrid.h
+//David Klimavich, November 2016
 
 #ifndef _MushroomGrid
 #define _MushroomGrid

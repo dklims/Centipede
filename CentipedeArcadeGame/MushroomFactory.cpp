@@ -1,3 +1,6 @@
+//MushroomFactory.cpp
+//David Klimavich, November 2016
+
 #include "MushroomFactory.h"
 
 

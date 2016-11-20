@@ -434,9 +434,6 @@
     <ClInclude Include="WaveManager.h">
       <Filter>Source Files\Game Components\Management</Filter>
     </ClInclude>
-    <ClInclude Include="MovementArrrays.h">
-      <Filter>Source Files\Game Components\Centipede\MovementArrays</Filter>
-    </ClInclude>
     <ClInclude Include="Spider.h">
       <Filter>Source Files\Game Components\Critters</Filter>
     </ClInclude>
@@ -451,6 +448,9 @@
     </ClInclude>
     <ClInclude Include="player.h">
       <Filter>Source Files\Game Components\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="MovementArrays.h">
+      <Filter>Source Files\Game Components\Centipede\MovementArrays</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

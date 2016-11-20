@@ -1,3 +1,6 @@
+//BulletFactory.cpp
+//David Klimavich, November 2016
+
 #include "BulletFactory.h"
 
 std::stack<Bullet*> BulletFactory::recycledItems;

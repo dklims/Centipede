@@ -1,3 +1,6 @@
+//CritterManager.h
+//David Klimavich, November 2016
+
 #ifndef _CritterManager
 #define _CritterManager
 

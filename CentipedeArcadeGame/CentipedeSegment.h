@@ -1,3 +1,6 @@
+//CentipedeSegment.h
+//David Klimavich, November 2016
+
 #ifndef _CentipedeSegment
 #define _CentipedeSegment
 

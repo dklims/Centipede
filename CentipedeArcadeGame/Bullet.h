@@ -1,5 +1,5 @@
-// Bullet
-// Andre Berthiaume, Aug 2012
+//Bullet.h
+//David Klimavich, November 2016
 
 #ifndef _Bullet
 #define _Bullet

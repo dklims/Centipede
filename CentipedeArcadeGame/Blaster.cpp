@@ -1,5 +1,5 @@
-// Ship
-// Andre Berthiaume, Aug 2012
+//Blaster.cpp
+//David Klimavich, November 2016
 
 #include "Blaster.h"
 #include "Bullet.h"
@@ -117,18 +117,6 @@ void Blaster::KillBullet()
 	BulletAlive = false;
 }
 
-/*void Ship::Collision(Widget *other)
-{
-	GameController::Instance().AddScore(other->GetValue());
-	other->MarkForDestroy();
-}
-
-void Ship::Collision(Asteroid *other)
-{
-	other->Explode();
-	new ShipExplosion(Pos);
-	MarkForDestroy();
-}*/
 
 void Blaster::Draw()
 {

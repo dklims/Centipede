@@ -1,3 +1,6 @@
+//Flea.h
+//David Klimavich, November 2016
+
 #ifndef _Flea
 #define _Flea
 
